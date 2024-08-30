@@ -1,2 +1,4 @@
 <field>Passcode</field>
 <value xsi:type="xsd:string">***REMOVED***</value>
+<field>Passcode2</field>
+<value xsi:type="xsd:string">***REMOVED***</value>
